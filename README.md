@@ -2,7 +2,7 @@
 
 This is a DEMO
 
-![Alt text](./DEMO.jpgraw=true 'COVID19-TRACKER-REACT')
+![Alt text](./DEMO.jpg?raw=true 'COVID19-TRACKER-REACT')
 
 # First Step
 
