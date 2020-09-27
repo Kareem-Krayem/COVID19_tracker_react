@@ -1,5 +1,9 @@
 # COVID19_tracker_react
 
+This is a DEMO
+
+![Alt text](./DEMO.jpg?raw=true 'COVID19-TRACKER-REACT')
+
 # First Step
 
 download and clone the project
